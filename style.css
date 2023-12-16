@@ -1,0 +1,96 @@
+#div_1{
+    width: 1540.513px;
+    height: 613.544px;
+    flex-shrink: 0;
+}
+#heading_1{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+#para_1{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.beagle{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+}
+#para_2{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+#divblock{
+    width: 962px;
+}
+#heading_2{
+   color: #000;
+   font-family: Inter;
+   font-size: 64px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+}
+
+#img2{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+#div_2{
+    width: 1051px;
+    height: 762px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+#div_3{
+   color: #000;
+   font-family: Inter;
+   font-size: 40px;
+   font-style: normal; 
+   font-weight: 400;
+   line-height: normal;
+   text-decoration-line: underline;
+}
+#div3{
+    width: 1623px;
+}
+#trivia{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#listitems{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
